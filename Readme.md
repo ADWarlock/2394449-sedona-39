@@ -2,7 +2,7 @@
 
 * Студент: [Aleksey Dyshliuk](https://up.htmlacademy.ru/htmlcss/39/user/2394449).
 * Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
-
+* Сайт: [Мой проект Седона](https://adwarlock.github.io/2394449-sedona-39/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
